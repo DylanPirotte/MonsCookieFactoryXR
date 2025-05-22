@@ -1,0 +1,11 @@
+{
+  "name": "be.technocite.cookiefactory",
+  "version": "0.0.1",
+  "displayName": "Cookie Factory",
+  "description": "Notre Factory à nous, c'est notre projet",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Dylan"
+  }
+}
