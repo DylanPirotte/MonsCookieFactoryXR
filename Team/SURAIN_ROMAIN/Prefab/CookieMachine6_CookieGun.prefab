@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 920632739477584351}
   m_Layer: 0
-  m_Name: Cookie_Machine_Romain
+  m_Name: CookieMachine6_CookieGun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
