@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7555012968305366245}
   m_Layer: 0
-  m_Name: ROOM_MONS_PORTELASUTILMANUEL
+  m_Name: ROOM_MONS_PORTELA_SUTIL_MANUEL
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
