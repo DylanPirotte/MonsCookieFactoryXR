@@ -80,6 +80,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 7f9eff001a61fd84a860ba96d3b71cfb, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: dc8f86ff64dfee74ebb2529a0ca57e46, type: 2}
     - target: {fileID: 919132149155446097, guid: 7f9eff001a61fd84a860ba96d3b71cfb, type: 3}
       propertyPath: m_Name
       value: Oven_Cookie_factory
