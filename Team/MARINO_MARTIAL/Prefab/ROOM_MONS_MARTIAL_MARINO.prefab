@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7587181698186458840}
   m_Layer: 0
-  m_Name: ROOM_UNDERSCORE_MONS_MARTIAL_MARINO
+  m_Name: ROOM_MONS_MARTIAL_MARINO
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
