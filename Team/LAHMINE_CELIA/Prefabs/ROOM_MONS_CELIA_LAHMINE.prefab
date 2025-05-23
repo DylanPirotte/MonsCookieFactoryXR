@@ -30,6 +30,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 5750776280304690541}
+  - {fileID: 6785972596863826997}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &221114147530642195
@@ -43,6 +44,18 @@ PrefabInstance:
     - target: {fileID: 193554609344859379, guid: 9f1e220f4fc15a44f8e685d37f5f2ca8, type: 3}
       propertyPath: m_Name
       value: Machine de Celia
+      objectReference: {fileID: 0}
+    - target: {fileID: 712822497310119497, guid: 9f1e220f4fc15a44f8e685d37f5f2ca8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 712822497310119497, guid: 9f1e220f4fc15a44f8e685d37f5f2ca8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 712822497310119497, guid: 9f1e220f4fc15a44f8e685d37f5f2ca8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1758326931232635599, guid: 9f1e220f4fc15a44f8e685d37f5f2ca8, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -92,6 +105,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Machine_Cookies_Celia
       objectReference: {fileID: 0}
+    - target: {fileID: 6445080416964963774, guid: 9f1e220f4fc15a44f8e685d37f5f2ca8, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -101,4 +118,66 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 5539236963500766846, guid: 9f1e220f4fc15a44f8e685d37f5f2ca8, type: 3}
   m_PrefabInstance: {fileID: 221114147530642195}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &712627799874168684
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3991014555008471527}
+    m_Modifications:
+    - target: {fileID: 4983109086662980844, guid: c07f7e355d162b44283e81998b1bee9f, type: 3}
+      propertyPath: m_Name
+      value: 3.Butter_Machine_Celia
+      objectReference: {fileID: 0}
+    - target: {fileID: 6327378440190892889, guid: c07f7e355d162b44283e81998b1bee9f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6327378440190892889, guid: c07f7e355d162b44283e81998b1bee9f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6327378440190892889, guid: c07f7e355d162b44283e81998b1bee9f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6327378440190892889, guid: c07f7e355d162b44283e81998b1bee9f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6327378440190892889, guid: c07f7e355d162b44283e81998b1bee9f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6327378440190892889, guid: c07f7e355d162b44283e81998b1bee9f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6327378440190892889, guid: c07f7e355d162b44283e81998b1bee9f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6327378440190892889, guid: c07f7e355d162b44283e81998b1bee9f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6327378440190892889, guid: c07f7e355d162b44283e81998b1bee9f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6327378440190892889, guid: c07f7e355d162b44283e81998b1bee9f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c07f7e355d162b44283e81998b1bee9f, type: 3}
+--- !u!4 &6785972596863826997 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6327378440190892889, guid: c07f7e355d162b44283e81998b1bee9f, type: 3}
+  m_PrefabInstance: {fileID: 712627799874168684}
   m_PrefabAsset: {fileID: 0}
