@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &6831241914488437439
+--- !u!1 &4413971411160087639
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,93 +8,93 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 8897634187400902002}
+  - component: {fileID: 1991536047923333092}
   m_Layer: 0
-  m_Name: Machine_Cookie_Jason
+  m_Name: CuissonCookie
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &8897634187400902002
+--- !u!4 &1991536047923333092
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6831241914488437439}
+  m_GameObject: {fileID: 4413971411160087639}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 32.925827, y: 1.7718539, z: 4.8935394}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 7748129363361096048}
+  - {fileID: 460698887030069490}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &7785698906571277979
+--- !u!1001 &139051177280356121
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 8897634187400902002}
+    m_TransformParent: {fileID: 1991536047923333092}
     m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 7f9eff001a61fd84a860ba96d3b71cfb, type: 3}
+    - target: {fileID: -8679921383154817045, guid: ee780ca0a88d24948911333616f63108, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0
+      value: -1.002
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 7f9eff001a61fd84a860ba96d3b71cfb, type: 3}
+    - target: {fileID: -8679921383154817045, guid: ee780ca0a88d24948911333616f63108, type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 7f9eff001a61fd84a860ba96d3b71cfb, type: 3}
+    - target: {fileID: -8679921383154817045, guid: ee780ca0a88d24948911333616f63108, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -0.158
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 7f9eff001a61fd84a860ba96d3b71cfb, type: 3}
+    - target: {fileID: -8679921383154817045, guid: ee780ca0a88d24948911333616f63108, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.96567965
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 7f9eff001a61fd84a860ba96d3b71cfb, type: 3}
+    - target: {fileID: -8679921383154817045, guid: ee780ca0a88d24948911333616f63108, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 7f9eff001a61fd84a860ba96d3b71cfb, type: 3}
-      propertyPath: m_LocalRotation.y
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 7f9eff001a61fd84a860ba96d3b71cfb, type: 3}
+    - target: {fileID: -8679921383154817045, guid: ee780ca0a88d24948911333616f63108, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.25973618
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ee780ca0a88d24948911333616f63108, type: 3}
       propertyPath: m_LocalRotation.z
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 7f9eff001a61fd84a860ba96d3b71cfb, type: 3}
+    - target: {fileID: -8679921383154817045, guid: ee780ca0a88d24948911333616f63108, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 7f9eff001a61fd84a860ba96d3b71cfb, type: 3}
+    - target: {fileID: -8679921383154817045, guid: ee780ca0a88d24948911333616f63108, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: -30.109
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 7f9eff001a61fd84a860ba96d3b71cfb, type: 3}
+    - target: {fileID: -8679921383154817045, guid: ee780ca0a88d24948911333616f63108, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -7635826562936255635, guid: 7f9eff001a61fd84a860ba96d3b71cfb, type: 3}
+    - target: {fileID: -7635826562936255635, guid: ee780ca0a88d24948911333616f63108, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: dc8f86ff64dfee74ebb2529a0ca57e46, type: 2}
-    - target: {fileID: 919132149155446097, guid: 7f9eff001a61fd84a860ba96d3b71cfb, type: 3}
+    - target: {fileID: 919132149155446097, guid: ee780ca0a88d24948911333616f63108, type: 3}
       propertyPath: m_Name
-      value: Oven_Cookie_factory
+      value: CuissonCookie
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 7f9eff001a61fd84a860ba96d3b71cfb, type: 3}
---- !u!4 &7748129363361096048 stripped
+  m_SourcePrefab: {fileID: 100100000, guid: ee780ca0a88d24948911333616f63108, type: 3}
+--- !u!4 &460698887030069490 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 7f9eff001a61fd84a860ba96d3b71cfb, type: 3}
-  m_PrefabInstance: {fileID: 7785698906571277979}
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ee780ca0a88d24948911333616f63108, type: 3}
+  m_PrefabInstance: {fileID: 139051177280356121}
   m_PrefabAsset: {fileID: 0}
