@@ -42,7 +42,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2405609601010596226, guid: e88a8e9f735514e4199aa7016bad894f, type: 3}
       propertyPath: m_Name
-      value: EmballageCookie
+      value: Machine10_EmballageCookie
       objectReference: {fileID: 0}
     - target: {fileID: 7681782386038162996, guid: e88a8e9f735514e4199aa7016bad894f, type: 3}
       propertyPath: m_LocalPosition.x
