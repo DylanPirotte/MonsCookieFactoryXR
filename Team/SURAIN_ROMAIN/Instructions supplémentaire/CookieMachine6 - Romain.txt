@@ -1,0 +1,12 @@
+1. Pouvoir attraper le bol de pâte à cookies et le mettre devant soi.
+2. Pouvoir attraper le gun.
+3. Le gun flotte dans les airs.
+3. Le gun se charge (10 munitions) en enfonçant le tuyau dans le bol.
+4. Le bol disparait une fois le gun chargé.
+5. Tirer les boules de pâtes à cookie vers la droite.
+
+
+a. Si on tire trop à côté du bureau sur la droite, les cookies disparaissent.
+b. Une fois qu'on lâche le gun, il retrouve sa position initiale dans les airs.
+
+Have fun!

@@ -1,0 +1,6 @@
+ATTENTION IMPORTANT
+
+
+-Les cookies et le marteau ne doivent pas disparaitre dans un vide infini à travers le sol.
+
+-Le marteau doit pouvoir être récupérable (si tomber au lancer sans faire exprès)
