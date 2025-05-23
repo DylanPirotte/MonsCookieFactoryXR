@@ -340,6 +340,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1122748987995493479, guid: 4c826e0cd32b4324392835773482751c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1122748987995493479, guid: 4c826e0cd32b4324392835773482751c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1122748987995493479, guid: 4c826e0cd32b4324392835773482751c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2984505255171523594, guid: 4c826e0cd32b4324392835773482751c, type: 3}
       propertyPath: m_Name
       value: ROOM_MONS_BAUDOUX_FLORIAN
